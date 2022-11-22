@@ -5,6 +5,8 @@ We have a  Clothing Company that prides themselves on providing an optimized ran
 
 Below is the snapshot of schema used:
 There are total four tables called as Product_details, sales, product_prices and Product_hierarchy.
+
+
 <img width="265" alt="image" src="https://user-images.githubusercontent.com/98107926/203303054-b8bf0823-0fbf-49c4-b08b-40d846a4631b.png">
 
 ## Objective
